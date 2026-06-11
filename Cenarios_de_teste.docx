@@ -1,0 +1,17 @@
+# Cenario de teste #
+
+CT01 - Recuperação com e-mail valido
+Validar se o usuario consegue reciperar a conta utilizando um e-mail valido
+
+CT02 - Recuperação com e-mail invalido
+Validar se o sistema impede a recuperação utilizando informaçoes invalidas 
+
+CT03 - Link para recuperar a senha que expirou
+Verificar se  sistema bloqueia a redefinição de senha apos a expiração do link de recueração 
+
+CT04 - redefinição de senha 
+Validar o fluxo de validação de senha do usuario
+
+CT05 - Validação de campos vazios
+Verificar se o sistema exige o preenchimento dos campos obrigatorios  
+

@@ -1,0 +1,5 @@
+ ID     Bug                                                              Severidade 
+
+BUG-001 Foi identificado erro ortograficos em mansagem do sistema            Baixa
+BUG-002 algumas informacoes aparece cortada na interface                     Media
+BUG-003 Campo aceita formato de e-mail invalido                              Alta
